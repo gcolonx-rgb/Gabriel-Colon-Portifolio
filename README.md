@@ -132,3 +132,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+/projects
+  /project-1
+    index.html
+    css/
+    js/
+/assets
+  images/
+README.md
+resume.pdf
