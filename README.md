@@ -14,12 +14,5 @@ My PowerShell Project
 # OS Ticketing system Projects
 My OS Ticketing System Projects
 
-/projects
-  /project-1
-    index.html
-    css/
-    js/
-/assets
-  images/
-README.md
-resume.pdf
+# Resume 
+My Resume 
