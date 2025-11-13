@@ -1,7 +1,7 @@
-# 💻 Gabriel Colon – IT Support Technician | Web Developer | Audio Engineer
+# 💻 Gabriel Colon – IT Support Technician 
 
 Welcome to my professional portfolio!  
-I’m an **IT Technician and aspiring Web Developer** with a background in **live sound mixing**.  
+I’m an **IT Technician   
 My mission is to combine technical support, networking, and creative technology skills to deliver reliable and innovative solutions.
 
 ---
@@ -37,12 +37,11 @@ My mission is to combine technical support, networking, and creative technology 
 - 🖥 **CompTIA A+ (Studying for 2025 Exam)**
 - 🌐 **Google Cybersecurity Certificate (in progress)**
 - 🔒 **ISC2 Certified in Cybersecurity (CC)** – Goal for 2026
-- 🎧 **Live Sound Engineering Experience**
 
 ---
 
 ## 🌎 Connect with Me
-- **LinkedIn:** [Your LinkedIn Profile Here]  
-- **Email:** [Your Professional Email Here]  
+- **LinkedIn:** (https://www.linkedin.com/in/gabriel-col%C3%B3n-08abb5244/)  
+- **Email:** GcolonX@gmail.com  
 
 
