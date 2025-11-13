@@ -13,6 +13,3 @@ My PowerShell Project
 
 # OS Ticketing system Projects
 My OS Ticketing System Projects
-
-# Resume 
-My Resume 
