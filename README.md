@@ -5,23 +5,15 @@ Hello, my name is Gabriel Colon. I am an IT Technician seeking a position where 
 
 
 
-# Spyder project settings
-.spyderproject
-.spyproject
+# VPN Projects settings
+.VPN Projects
 
-# Rope project settings
-.ropeproject
 
-# mkdocs documentation
-/site
+# PowerShell settings
+.PowerShell Project
 
-# mypy
-.mypy_cache/
-.dmypy.json
-dmypy.json
-
-# Pyre type checker
-.pyre/
+# OS Ticketing system Projects
+.OS Ticketing System Projects
 
 /projects
   /project-1
