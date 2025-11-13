@@ -1,15 +1,48 @@
-# Gabriel-Colon-Portifolio
-Hello, my name is Gabriel Colon. I am an IT Technician seeking a position where I can apply and expand my technical skills.
+# 💻 Gabriel Colon – IT Support Technician | Web Developer | Audio Engineer
+
+Welcome to my professional portfolio!  
+I’m an **IT Technician and aspiring Web Developer** with a background in **live sound mixing**.  
+My mission is to combine technical support, networking, and creative technology skills to deliver reliable and innovative solutions.
+
+---
+
+## 🧠 About Me
+
+- 🎯 **Goal:** Build a career in IT support and cybersecurity while expanding into web development and audio technology.
+- 💡 **Skills:**
+  - Hardware & software troubleshooting
+  - Networking (DHCP, DNS, VPNs, IP configuration)
+  - PowerShell scripting and automation
+  - Ticketing systems (e.g., OS Ticket)
+  - Windows & Linux administration
+  - Web development (HTML | CSS | JavaScript | React)
+  - Live sound setup and digital mixing (Behringer X32)
+
+- 📚 **Currently learning:** CompTIA A+ | Network+ | ISC2 CC | Google Cybersecurity  
+- 🔧 **Tools I use:** PowerShell, VS Code, Wireshark, Git, OBS, Adobe Audition, Reaper
+
+---
+
+## 🧩 Projects
+
+| Project | Description | Tools |
+|----------|--------------|-------|
+| [**VPN Setup & Configuration**](./VPN%20Projects%20settings) | Demonstrates how to configure VPN access for secure remote connections. | Windows Server, Cisco Packet Tracer |
+| [**PowerShell Automation Scripts**](./PowerShell%20settings) | Useful PowerShell scripts for automating common IT support tasks. | PowerShell |
+| [**OS Ticket System Setup**](./OS%20Ticketing%20system%20Projects) | Configured an open-source help-desk system for managing IT requests. | Apache, MySQL, PHP |
+
+---
+
+## 🧾 Certifications & Training
+- 🖥 **CompTIA A+ (Studying for 2025 Exam)**
+- 🌐 **Google Cybersecurity Certificate (in progress)**
+- 🔒 **ISC2 Certified in Cybersecurity (CC)** – Goal for 2026
+- 🎧 **Live Sound Engineering Experience**
+
+---
+
+## 🌎 Connect with Me
+- **LinkedIn:** [Your LinkedIn Profile Here]  
+- **Email:** [Your Professional Email Here]  
 
 
-
-
-# VPN Projects settings
-My VPN Projects
-
-
-# PowerShell settings
-My PowerShell Project
-
-# OS Ticketing system Projects
-My OS Ticketing System Projects
