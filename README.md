@@ -5,14 +5,14 @@ Hello, my name is Gabriel Colon. I am an IT Technician seeking a position where 
 
 
 # VPN Projects settings
-.VPN Projects
+My VPN Projects
 
 
 # PowerShell settings
-.PowerShell Project
+My PowerShell Project
 
 # OS Ticketing system Projects
-.OS Ticketing System Projects
+My OS Ticketing System Projects
 
 /projects
   /project-1
