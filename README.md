@@ -1,7 +1,7 @@
 # 💻 Gabriel Colon – IT Support Technician 
 
 Welcome to my professional portfolio!  
-I’m an **IT Technician   
+I’m an IT Technician   
 My mission is to combine technical support, networking, and creative technology skills to deliver reliable and innovative solutions.
 
 ---
