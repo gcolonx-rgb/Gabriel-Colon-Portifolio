@@ -16,7 +16,7 @@ My mission is to combine technical support, networking, and creative technology 
   - Ticketing systems (e.g., OS Ticket)
   - Windows & Linux administration
   - Web development (HTML | CSS | JavaScript | React)
-  - Live sound setup and digital mixing (Behringer X32)
+
 
 - 📚 **Currently learning:** CompTIA A+ | Network+ | ISC2 CC | Google Cybersecurity  
 - 🔧 **Tools I use:** PowerShell, VS Code, Wireshark, Git, OBS, Adobe Audition, Reaper
