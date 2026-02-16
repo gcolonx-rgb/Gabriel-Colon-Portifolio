@@ -35,7 +35,7 @@ My mission is to combine technical support, networking, and creative technology 
 
 ## 🧾 Certifications & Training
 -  🌐 **Google Cybersecurity Certificate 
-- 🖥 **CompTIA A+ (Studying for 2026 Exam)**
+- 🖥 **CompTIA Security+ (Studying for 2026 Exam)**
 - 🔒 **ISC2 Certified in Cybersecurity (CC)** – Goal for late 2026
 
 ---
