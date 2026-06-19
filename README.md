@@ -10,12 +10,16 @@ My mission is to combine technical support, networking, and creative technology 
 
 - 🎯 **Goal:** Build a career in IT support and cybersecurity while expanding into web development and audio technology.
 - 💡 **Skills:**
-  - Hardware & software troubleshooting
-  - Networking (DHCP, DNS, VPNs, IP configuration)
-  - PowerShell scripting and automation
-  - Ticketing systems (e.g., OS Ticket)
-  - Windows & Linux administration
-  - Web development (HTML | CSS | JavaScript | React)
+- Basic Cybersecurity & Network Security Labs
+- Basic Python Scripting & Automation
+- Cisco Packet Tracer Network & Security Labs
+- Command Line Interface (CLI) Operations
+- Customer Service & Technical Support
+- Microsoft Azure & Microsoft 365
+- Network Troubleshooting (TCP/IP, DNS, DHCP)
+- Ticketing Systems & Technical Documentation
+- Windows & Linux System Support
+
 
 
 - 📚 **Currently learning:** CompTIA A+ | Network+ | ISC2 CC | Google Cybersecurity  
@@ -37,7 +41,7 @@ My mission is to combine technical support, networking, and creative technology 
 -  🌐 **Google Cybersecurity Certification
 -  🌐 **Google IT Help Desk Certification
 -  🌐 **AZ-900 Certification
-- 🖥 **CompTIA Security+ (Studying for 2026 Exam)**
+- 🖥 **CompTIA Security+/Netwrok+ (Studying for 2026 Exam)**
 - 🔒 **ISC2 Certified in Cybersecurity (CC)** – Goal for late 2026
 
 ---
