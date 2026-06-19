@@ -30,41 +30,7 @@ My mission is to combine technical support, networking, and creative technology 
 ## 🧩 Projects
 
 | Project 
-- Enterprise Network Security Lab | Built and secured a simulated enterprise network environment with routing, switching, and security configurations | Cisco Packet Tracer |
 
-- Home Network Infrastructure Lab | Designed and configured a functional home network with secure wired and wireless connectivity | Cisco Packet Tracer |
-
-- DNS Configuration Lab | Configured DNS services to enable hostname resolution across connected network devices | Cisco Packet Tracer |
-
-- DHCP Configuration Lab | Implemented DHCP services to assign IP addresses and manage network configuration automatically | Cisco Packet Tracer |
-
-- Firewall Security Rules Lab | Configured firewall security policies to control traffic flow and improve network protection | Cisco Packet Tracer |
-
-- IP Addressing & Connectivity Lab | Configured IPv4 addressing schemes and verified end-to-end network communication | Cisco Packet Tracer |
-
-- Switch Port Security Lab | Implemented switch port security controls to prevent unauthorized network access | Cisco Packet Tracer |
-
-- Router Configuration Lab | Configured routers with basic routing protocols and established communication between multiple networks | Cisco Packet Tracer |
-
-- SSH Remote Access Lab | Configured SSH for encrypted remote device management and secure administrative access | Cisco Packet Tracer |
-
-- Router Security Hardening Lab | Secured network devices by configuring passwords and implementing device access restrictions | Cisco Packet Tracer |
-
-- VLAN Network Segmentation Lab | Created VLANs to segment network traffic and improve network performance and security | Cisco Packet Tracer |
-
-- Wireless Network Security Lab | Configured and secured wired and wireless network connections for stable and protected connectivity | Cisco Packet Tracer |
-
-- IoT Smart Network Lab | Configured and tested IoT devices within a simulated smart network environment | Cisco Packet Tracer |
-
-- Email Server Configuration Lab | Deployed and configured an email server supporting SMTP and POP3 communication services | Cisco Packet Tracer |
-
-- Mobile Tower Communication Lab | Simulated mobile tower infrastructure and tested wireless communication between connected devices | Cisco Packet Tracer |
-
-This format looks solid for a technical portfolio and shows breadth + hands-on networking experience.
-
-add | Cisco Packet Tracer | to the end of each project
-
-Got it — here’s your cleaned and consistent version with Cisco Packet Tracer at the end of every line:
 
 - Enterprise Network Security Lab | Built and secured a simulated enterprise network environment with routing, switching, and security configurations | Cisco Packet Tracer |
 
