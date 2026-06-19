@@ -31,7 +31,6 @@ My mission is to combine technical support, networking, and creative technology 
 
 | Project 
 
-
 - Enterprise Network Security Lab | Built and secured a simulated enterprise network environment with routing, switching, and security configurations | Cisco Packet Tracer |
 
 - Home Network Infrastructure Lab | Designed and configured a functional home network with secure wired and wireless connectivity | Cisco Packet Tracer |
@@ -61,6 +60,10 @@ My mission is to combine technical support, networking, and creative technology 
 - Email Server Configuration Lab | Deployed and configured an email server supporting SMTP and POP3 communication services | Cisco Packet Tracer |
 
 - Mobile Tower Communication Lab | Simulated mobile tower infrastructure and tested wireless communication between connected devices | Cisco Packet Tracer |
+
+- Password Manager | Created a place to store and manage your passwords | Python |
+
+- Crytography Cipher | Created a program to protect text by encrypting it | Python |
 
 
 ---
