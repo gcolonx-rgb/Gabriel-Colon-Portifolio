@@ -61,9 +61,11 @@ My mission is to combine technical support, networking, and creative technology 
 
 - Mobile Tower Communication Lab | Simulated mobile tower infrastructure and tested wireless communication between connected devices | Cisco Packet Tracer |
 
+- DMZ Network Security Lab | Configured a secure DMZ using firewall rules, ACLs, NAT, and network segmentation | Cisco Packet Tracer |
+
 - Password Manager | Created a place to store and manage your passwords | Python |
 
-- Crytography Cipher | Created a program to protect text by encrypting it | Python |
+- Cryptography Cipher | Created a program to protect text by encrypting it | Python |
 
 
 ---
